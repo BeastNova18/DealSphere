@@ -8,9 +8,9 @@ A Flutter application where corporates post investment opportunities and investo
 
 > Add screenshots after building — place them in a `/screenshots` folder in your repo.
 
-| Login | Deal Listing | Deal Detail | My Interests |
+| Logo | Login | Deal Listing | Deal Detail | My Interests |
 |---|---|---|---|
-| ![DealFlow Logo](screenshots/dealflow_logo.svg) || ![Login](screenshots/login.png) | ![Listing](screenshots/listing.png) | ![Detail](screenshots/detail.png) | ![Interests](screenshots/interests.png) |
+| ![DealFlow Logo](screenshots/dealflow_logo.svg) | ![Login](screenshots/login.png) | ![Listing](screenshots/listing.png) | ![Detail](screenshots/detail.png) | ![Interests](screenshots/interests.png) |
 
 ---
 
