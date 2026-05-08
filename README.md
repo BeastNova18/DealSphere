@@ -138,7 +138,7 @@ Custom `PageRouteBuilder` transitions replace the default `MaterialPageRoute`. D
 **Prerequisites:** Flutter SDK 3.0+, Dart 3.0+
 
 ```bash
-git clone https://github.com/your-username/dealflow.git
+git clone https://github.com/BeastNova18/DealSphere.git
 cd dealflow
 flutter pub get
 flutter run
@@ -155,5 +155,5 @@ APK is generated at `build/app/outputs/flutter-apk/app-release.apk`
 
 ## Author
 
-**Your Name**
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Bind Gaurav**
+[GitHub](https://github.com/BeastNova18) · [LinkedIn](https://www.linkedin.com/in/gauravbind/)
