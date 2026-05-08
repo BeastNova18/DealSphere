@@ -10,7 +10,7 @@ A Flutter application where corporates post investment opportunities and investo
 
 | Login | Deal Listing | Deal Detail | My Interests |
 |---|---|---|---|
-| ![Login](screenshots/login.png) | ![Listing](screenshots/listing.png) | ![Detail](screenshots/detail.png) | ![Interests](screenshots/interests.png) |
+| ![DealFlow Logo](screenshots/dealflow_logo.svg) || ![Login](screenshots/login.png) | ![Listing](screenshots/listing.png) | ![Detail](screenshots/detail.png) | ![Interests](screenshots/interests.png) |
 
 ---
 
